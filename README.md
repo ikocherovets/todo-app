@@ -1,6 +1,10 @@
 # 📝 React TypeScript To-Do App
 This project is a responsive and dynamic to-do list application designed for effective task management. The app provides real-time updates and robust performance, allowing users to seamlessly add, delete, toggle, and rename tasks. Built with modern web technologies, this application ensures a smooth user experience across all devices.
 
+### 🌐 Demo
+
+Check out the live demo [here](https://ikocherovets.github.io/todo-app/).
+
 ### 🚀 Main Features
 
 - **Real-Time Updates**: Instantly reflects changes as tasks are added, deleted, toggled, or renamed.
@@ -29,18 +33,12 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    npm install
    ```
-3. **Deploy:**
+3. **Run app locally:**
    
     ```bash
-    npm run deploy
+    npm run start
     ```
-### 🛠️ Available Scripts
 
-- **Deploy**: Deploys the application to GitHub Pages.
-- **SCSS Preprocessor**: Write your styles using modern SCSS language.
 
-### 🌐 Demo
-
-Check out the live demo [here](https://ikocherovets.github.io/todo-app/).
 
    
